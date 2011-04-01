@@ -8,6 +8,6 @@ Just paste this before closing body
         document.body.style.transform =
         document.body.style.webkitTransform =
         document.body.style.MozTransform =
-        document.body.style.msTranform =
+        document.body.style.msTransform =
         'rotate(' + [45, 90, 135, 180, 225, 270, 315][Math.floor(Math.random() * 7)] + 'deg)';
     </script>

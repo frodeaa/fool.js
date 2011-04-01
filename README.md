@@ -3,7 +3,7 @@ April 1st JavaScript snippet.
 
 Just paste this before closing body
     <script>
-    //  Uncomment the next line if you want the prank to happen only when the url hashtag is #april
+    //  Uncomment the next line if you want the prank to happen only when the url hash is #april
     //  if (document.location.hash.indexOf('april') > -1)
         document.body.style.transform =
         document.body.style.webkitTransform =

@@ -1,7 +1,7 @@
 April 1st JavaScript snippet.
 ============================
 
-Just write this before </body>:
+Just paste this before closing body
     <script>
     //  Uncomment the next line if you want the prank to happen only when the url hashtag is #april
     //  if (document.location.hash.indexOf('april') > -1)

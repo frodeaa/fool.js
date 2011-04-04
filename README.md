@@ -10,5 +10,5 @@ Just paste this before closing body
         document.body.style.MozTransform =
         document.body.style.OTransform =
         document.body.style.msTransform =
-        'rotate(' + [45, 90, 135, 180, 225, 270, 315][Math.floor(Math.random() * 7)] + 'deg)';
+            'rotate(' + 45 * Math.ceil(Math.random() * 7) + 'deg)';
     </script>
